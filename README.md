@@ -122,4 +122,4 @@ Key tunables live at the top of `steering_wheel_v2.py`:
 
 ## License
 
-Add your preferred license here (e.g. MIT).
+This project is licensed under the [MIT License](LICENSE).
